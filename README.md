@@ -12,7 +12,7 @@ https://safetycine.com.br/
  * Gerar estatística por empresa</br>
 
 ## Distribuição, geração de link (controle para não ser divulgado a lote gratuitamente)</br>
-	Respaudo jurídico</br
+	Respaudo jurídico</br>
 ## Geração de vdeos avançados/integrações com um plano premium
 
 ## Observações
