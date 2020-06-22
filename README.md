@@ -9,9 +9,10 @@ https://safetycine.com.br/
 • Distribuição, geração de link (controle para não ser divulgado a lote gratuitamente)</br>
 	Respaudo jurídico</br>
 
-Obs.: Existirão vários tipos de planos, para tipos de vídeos</br>
-## O quanto antes, valor
-##Cara bonitinha mais simples e rápida possível
+## Observações
+Existirão vários tipos de planos, para tipos de vídeos</br>
+O quanto antes, valor
+Cara bonitinha mais simples e rápida possível
 
 
 # Useful Links
