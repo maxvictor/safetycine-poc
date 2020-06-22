@@ -17,8 +17,8 @@ https://safetycine.com.br/
 
 ## Observações
 Existirão vários tipos de planos, para tipos de vídeos</br>
-Gerar um MVP o quanto antes, com baixo valor
-Cara bonitinha mais simples e rápida possível
+Gerar um MVP o quanto antes, com baixo valor</br>
+Cara bonitinha mais simples e rápida possível</br>
 
 # Useful Links
 https://themeforest.net/item/vodi-video-wordpress-theme-for-movies-tv-shows/23738703?_ga=2.258645194.1711537373.1592672910-440928225.1592672910
