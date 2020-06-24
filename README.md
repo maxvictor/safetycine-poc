@@ -2,6 +2,12 @@
 Empresa com foco em treinamentos no assunto de segurança do trabalho com plataforma de videos.
 https://safetycine.com.br/
 
+## Pontos necessários
+* 1.	Ter função de gerar links para cada vídeo, sendo possível expirar este link quando necessário (Regra de negócio).
+* 2.	Analisar a quantidade de visualizações por vídeo/cliente.
+* 3.	Ter uma página “INTEGRAÇÃO”, onde só terá acesso quem for liberado pela safetycine, conforme o plano.
+* 4.	Permissão para teste período de 14 dias. Após estes 14 dias, informar que necessita entrar em contato com os consultores da Safetycine para aquisição de algum plano.
+
 ## Características / Requerimentos
  * Visualização dos vídeos</br>
  * Escolha de quais videos poderam ser visualizados pela equipe</br>
