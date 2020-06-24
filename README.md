@@ -1,12 +1,46 @@
-# Safetycine - Evaristo Faria
-Empresa com foco em treinamentos no assunto de segurança do trabalho com plataforma de videos.
+# :movie_camera: Safetycine - Evaristo / Leandro
+Empresa com foco em treinamentos no assunto de segurança do trabalho com plataforma de videos. </br>
 https://safetycine.com.br/
 
+## Orçamentos Possíveis
+### 1.	Wordpress + Toroflix(catálogo) + Vimeo(opcional) + Gerando link(Api existente).
+  *	Fluxo Cliente/Prospect.
+    * Cliente/Prospect acessa catálogo no toroflix.
+    * Direcionado para página login/compra.
+      * **Opcional**: Criação de uma nóva página login/compra.
+    * Após autenticado pela plataforma existente.
+    * Seleciona videos e Gera Links.
+  * Fluxo Usuário Final.
+    * Usuário acessa link.
+    * Exibir página com vídeo (Plataforma existente)
+  * Fluxo Admin (sem integrar com vímeo - opcional)
+    * Fazer upload do vídeo no vimeo
+    * Criar item referente ao vídeo no Toroflix
+      * **Observação**: Considerando que a plataforma atual tenha uma integração com o vimeo.
+
+### 2. Wordpress + Toroflix + Vimeo + gerando link(Nova Api)
+  * Fluxo Cliente/Prospect
+    * Cliente/Prospect acessa catálogo no toroflix
+    * Direcionado para página login/compra - nova página de login/compra dentro do wordpress
+      * Loga como Cliente
+        * Cai na tela de catálogo (com permissão de gerar links)
+        * Área do cliente (Com links gerados, estatísticas, data de vencimento do plano, etc)
+      * Redirecionado para contato no whatsapp
+  * Fluxo Usuário Final
+    * Usuário acessa link
+    * Exibir página com vídeo com token de expiração - Plataforma wordpress (mesma página Toroflix)
+    * Vídeo não encontrado - Plataforma wordpress
+  * Fluxo Admin
+    * Fazer upload do vídeo no vimeo
+    * Criar item referente ao vídeo
+    * Criar Acesso do cliente na plataforma Toroflix
+    * Dashboard de estatísticas do cliente
+
 ## Pontos necessários
-* 1.	Ter função de gerar links para cada vídeo, sendo possível expirar este link quando necessário (Regra de negócio).
-* 2.	Analisar a quantidade de visualizações por vídeo/cliente.
-* 3.	Ter uma página “INTEGRAÇÃO”, onde só terá acesso quem for liberado pela safetycine, conforme o plano.
-* 4.	Permissão para teste período de 14 dias. Após estes 14 dias, informar que necessita entrar em contato com os consultores da Safetycine para aquisição de algum plano.
+1.	Ter função de gerar links para cada vídeo, sendo possível expirar este link quando necessário (Regra de negócio).
+2.	Analisar a quantidade de visualizações por vídeo/cliente.
+3.	Ter uma página “INTEGRAÇÃO”, onde só terá acesso quem for liberado pela safetycine, conforme o plano.
+4.	Permissão para teste período de 14 dias. Após estes 14 dias, informar que necessita entrar em contato com os consultores da Safetycine para aquisição de algum plano.
 
 ## Características / Requerimentos
  * Visualização dos vídeos</br>
@@ -27,9 +61,6 @@ Gerar um MVP o quanto antes, com baixo valor</br>
 Cara bonitinha mais simples e rápida possível</br>
 
 # Useful Links
-https://themeforest.net/item/vodi-video-wordpress-theme-for-movies-tv-shows/23738703?_ga=2.258645194.1711537373.1592672910-440928225.1592672910
-
 https://torothemes.com/themes/toroflix/
 
-https://produto.mercadolivre.com.br/MLB-1002340212-tema-toroflix-tema-wordpress-exclusivo-pt-br-_JM?quantity=1
 
