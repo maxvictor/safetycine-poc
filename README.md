@@ -3,7 +3,7 @@ Empresa com foco em treinamentos no assunto de segurança do trabalho com plataf
 https://safetycine.com.br/
 
 ## Orçamentos Possíveis
-### 1.	Wordpress + Toroflix(catálogo) + Vimeo(opcional) + Gerando link(Api existente).
+### 1.	Wordpress + Toroflix(Catálogo) + Vimeo(Opcional) + Gerando Link(API Existente)
 **Valor**: R$ 5.000,00 </br>
 **Data de Entrega**: 7 dias após adquirir o Toroflix
   *	Fluxo Cliente/Prospect.
@@ -20,7 +20,7 @@ https://safetycine.com.br/
     * Criar item referente ao vídeo no Toroflix
       * **Observação**: Considerando que a plataforma atual tenha uma integração com o vimeo.
 
-### 2. SafetyCine(plataforma videos) + Toroflix(Layout) + Vimeo + gerando link(Nova Api)
+### 2. SafetyCine(Plataforma Videos) + Toroflix(Layout) + Vimeo + Gerando Link(Nova API)
 **Valor**: R$ 15.000,00 </br>
 **Data de Entrega**: 30/08/2020
   * Fluxo Cliente/Prospect
