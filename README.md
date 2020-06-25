@@ -25,14 +25,14 @@ https://safetycine.com.br/
 **Data de Entrega**: 30/08/2020
   * Fluxo Cliente/Prospect
     * Cliente/Prospect acessa catálogo no toroflix
-    * Direcionado para página login/compra - nova página de login/compra dentro do wordpress
+    * Direcionado para página login/compra - nova página de login/compra
       * Loga como Cliente
         * Cai na tela de catálogo (com permissão de gerar links)
         * Área do cliente (Com links gerados, estatísticas, data de vencimento do plano, etc)
       * Redirecionado para contato no whatsapp
   * Fluxo Usuário Final
     * Usuário acessa link
-    * Exibir página com vídeo com token de expiração - Plataforma wordpress (mesma página Toroflix)
+    * Exibir página com vídeo com token de expiração - (mesma página Toroflix)
     * Vídeo não encontrado - Plataforma wordpress
   * Fluxo Admin
     * Fazer upload do vídeo no vimeo
